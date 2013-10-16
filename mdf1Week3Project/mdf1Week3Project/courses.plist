@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Rolling Hills Golf Club</string>
+		<key>address</key>
+		<string>1749 Art Hagan Place
+Longwood, FL 32750</string>
+		<key>phone</key>
+		<string>(407) 834-6818</string>
+		<key>website</key>
+		<string>rollinghillsgolfclub.com</string>
+		<key>latitude</key>
+		<real>28.688683</real>
+		<key>longitude</key>
+		<real>-81.37974</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Wekiva Golf Club</string>
+		<key>phone</key>
+		<string>(407) 862-5113</string>
+		<key>address</key>
+		<string>4100 Wekiva Club House Drive 
+Longwood, FL 32779</string>
+		<key>website</key>
+		<string>wekivagolfclub.com</string>
+		<key>latitude</key>
+		<real>28.715061</real>
+		<key>longitude</key>
+		<real>-81.416909</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Alaqua Country Club</string>
+		<key>phone</key>
+		<string>(407) 333-2582</string>
+		<key>address</key>
+		<string>2091 Alaqua Drive
+Longwood, FL 32779</string>
+		<key>website</key>
+		<string>alaquacc.com</string>
+		<key>latitude</key>
+		<real>28.744754</real>
+		<key>longitude</key>
+		<real>-81.397318</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Errol Estate Golf And Country Club</string>
+		<key>phone</key>
+		<string>(407) 886-5000</string>
+		<key>address</key>
+		<string>1355 Errol Parkway
+Apopka, FL 32712</string>
+		<key>website</key>
+		<string>errolestategcc.com</string>
+		<key>latitude</key>
+		<real>28.703944</real>
+		<key>longitude</key>
+		<real>-81.53435500000001</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Winter Park Country Club</string>
+		<key>phone</key>
+		<string>(407) 599-3339</string>
+		<key>address</key>
+		<string>761 Old England Avenue
+Winter Park, FL 32789</string>
+		<key>website</key>
+		<string>winterparkcountryclub.com</string>
+		<key>latitude</key>
+		<real>28.603869</real>
+		<key>longitude</key>
+		<real>-81.348067</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Interlachen Country Club</string>
+		<key>phone</key>
+		<string>(407) 657-0850</string>
+		<key>address</key>
+		<string>2245 Interlachen Court
+Winter Park, FL 32792</string>
+		<key>website</key>
+		<string>interlachenccfl.com</string>
+		<key>latitude</key>
+		<real>28.614409</real>
+		<key>longitude</key>
+		<real>-81.32142899999999</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Country Club at Deer Run</string>
+		<key>phone</key>
+		<string>(407) 699-7993</string>
+		<key>address</key>
+		<string>300 Daneswood Way
+Casselberry, FL 32707</string>
+		<key>website</key>
+		<string>deerruncc.com</string>
+		<key>latitude</key>
+		<real>28.658864</real>
+		<key>longitude</key>
+		<real>-81.301002</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tuskawilla Country Club</string>
+		<key>phone</key>
+		<string>(407) 366-1851</string>
+		<key>address</key>
+		<string>1500 Winter Springs Boulevard
+Winter Springs, FL 32708</string>
+		<key>website</key>
+		<string>tuscawillacc.com</string>
+		<key>latitude</key>
+		<real>28.677137</real>
+		<key>longitude</key>
+		<real>-81.253518</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dubsdread Golf Course</string>
+		<key>phone</key>
+		<string>(407) 246-2551</string>
+		<key>address</key>
+		<string>549 West Par Street 
+Orlando, FL 32804</string>
+		<key>website</key>
+		<string>historicaldubsdread.com</string>
+		<key>latitude</key>
+		<real>28.582691</real>
+		<key>longitude</key>
+		<real>-81.387063</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Shingle Creek Golf Club</string>
+		<key>phone</key>
+		<string>(407) 996-9933</string>
+		<key>address</key>
+		<string>9939 Universal Blvd 
+Orlando, FL 32819</string>
+		<key>website</key>
+		<string>shinglecreekgolf.com</string>
+		<key>latitude</key>
+		<real>28.425776</real>
+		<key>longitude</key>
+		<real>-81.434985</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Marriott&apos;s Grand Pines Golf Club Orlando</string>
+		<key>phone</key>
+		<string>(407) 239-6909</string>
+		<key>address</key>
+		<string>6351 International Golf Club Road 
+Orlando, FL 32821</string>
+		<key>website</key>
+		<string>marriott.com</string>
+		<key>latitude</key>
+		<real>28.40049</real>
+		<key>longitude</key>
+		<real>-81.462901</real>
+	</dict>
+</array>
+</plist>
